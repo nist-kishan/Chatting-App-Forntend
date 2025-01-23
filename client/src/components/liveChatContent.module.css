@@ -1,0 +1,38 @@
+.liveChatContentReceiverContainer{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    height: fit-content;
+}
+
+.liveChatContentReceiver{
+    display: block;
+    width: fit-content;
+    max-width: 60%;
+    padding: 1rem;
+    border-radius: 20px;
+    margin: 1px 1rem;
+    text-align: left;
+    color: white;
+    background-color: rgb(219, 43, 73);
+}
+
+.liveChatContentSenderContainer{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+    height: fit-content;
+}
+
+.liveChatContentSender{
+    width: fit-content;
+    max-width: 60%;
+    padding: 1rem;
+    border-radius: 20px;
+    margin: 1px 1rem;
+    text-align: left;
+    color: white;
+    background-color: rgb(38, 220, 111);
+}

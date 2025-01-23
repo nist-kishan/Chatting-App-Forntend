@@ -1,0 +1,35 @@
+.liveChatContainer {
+    width: 100%;
+    height: 100%;
+    display: grid;
+    grid-template-rows: 15% 70% 15%;
+}
+
+.liveChatHeader {
+    background: rgb(33, 33, 33);
+    background: -moz-linear-gradient(90deg, rgba(33, 33, 33, 0.8907212543220413) 4%, rgba(10, 10, 10, 1) 77%);
+    background: -webkit-linear-gradient(90deg, rgba(33, 33, 33, 0.8907212543220413) 4%, rgba(10, 10, 10, 1) 77%);
+    background: linear-gradient(90deg, rgba(33, 33, 33, 0.8907212543220413) 4%, rgba(10, 10, 10, 1) 77%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#212121", endColorstr="#0a0a0a", GradientType=1);
+    border-bottom:2px solid white ;
+}
+
+.liveChatContent {
+    background: rgb(33, 33, 33);
+    background: -moz-linear-gradient(90deg, rgba(33, 33, 33, 0.8907212543220413) 4%, rgba(10, 10, 10, 1) 77%);
+    background: -webkit-linear-gradient(90deg, rgba(33, 33, 33, 0.8907212543220413) 4%, rgba(10, 10, 10, 1) 77%);
+    background: linear-gradient(90deg, rgba(33, 33, 33, 0.8907212543220413) 4%, rgba(10, 10, 10, 1) 77%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#212121", endColorstr="#0a0a0a", GradientType=1);
+
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    width: 100%;
+    height: 100%;
+    /* background-color: goldenrod; */
+    overflow-y: scroll;
+}
+
+.liveChatFooter{
+    border-top:2px solid white ;
+    background-color: black;
+}

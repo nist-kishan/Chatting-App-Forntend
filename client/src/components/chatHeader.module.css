@@ -1,0 +1,51 @@
+.chatHeaderContainer {
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+    background-color: black;
+}
+
+.chatHeaderSection {
+    color: whitesmoke;
+    display: flex;
+    justify-content: space-between;
+}
+
+h1 {
+    margin-left: 1rem;
+}
+
+.chatHeaderIcons {
+    color: white;
+    display: flex;
+    align-items: center;
+    font-size: 2rem;
+    justify-content: space-between;
+    
+}
+
+.chatHeaderIcons>* {
+    margin-left: 1rem;
+    cursor: pointer;
+    &:hover{
+        transform: scale(1.5);
+    }
+}
+
+.chatHeaderIcons > :last-child{
+    margin-right: 1rem;
+}
+.chatHeaderSearchBox {
+    padding: 1rem;
+}
+
+.chatHeaderUserBox{
+    width: 100%;
+    padding: 8.5px;
+    border-radius: 30px;
+    outline: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: large;
+    color: white;
+    background-color: rgb(37, 36, 36);
+}

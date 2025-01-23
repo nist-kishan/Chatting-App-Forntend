@@ -1,0 +1,35 @@
+{
+    "chat": [
+      {
+        "sender": "Alice",
+        "timestamp": "2025-01-18T10:00:00Z",
+        "message": "Hi Bob! How are you doing today?"
+      },
+      {
+        "sender": "Bob",
+        "timestamp": "2025-01-18T10:01:00Z",
+        "message": "Hi Alice! I'm doing well, thanks. How about you?"
+      },
+      {
+        "sender": "Alice",
+        "timestamp": "2025-01-18T10:02:00Z",
+        "message": "I'm good too, just working on a new project. It's keeping me busy!"
+      },
+      {
+        "sender": "Bob",
+        "timestamp": "2025-01-18T10:03:00Z",
+        "message": "That's great! What's the project about?"
+      },
+      {
+        "sender": "Alice",
+        "timestamp": "2025-01-18T10:04:00Z",
+        "message": "It's a mobile app for tracking fitness goals. Still in the early stages, though."
+      },
+      {
+        "sender": "Bob",
+        "timestamp": "2025-01-18T10:05:00Z",
+        "message": "Sounds exciting! Let me know if you need any help with it."
+      }
+    ]
+  }
+  

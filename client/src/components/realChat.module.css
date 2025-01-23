@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.realChatContainer {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;    
+}
+
+.realChatInnerContainer {
+    width: 100%;
+    height: 100vh;
+    background: rgb(91, 110, 111);
+    background: -moz-linear-gradient(0deg, rgba(91, 110, 111, 0.8935223747702206) 27%, rgba(54, 1, 1, 1) 78%);
+    background: -webkit-linear-gradient(0deg, rgba(91, 110, 111, 0.8935223747702206) 27%, rgba(54, 1, 1, 1) 78%);
+    background: linear-gradient(0deg, rgba(91, 110, 111, 0.8935223747702206) 27%, rgba(54, 1, 1, 1) 78%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#5b6e6f", endColorstr="#360101", GradientType=1);
+}

@@ -1,0 +1,143 @@
+[
+    {
+      "name": "Alice Johnson",
+      "gender": "Female",
+      "timestamp": "2:30 PM",
+      "profile_picture": "./image/Avatar/girl_01.png",
+      "message": "Hey, how are you?"
+    },
+    {
+      "name": "Bob Smith",
+      "gender": "Male",
+      "timestamp": "1:15 PM",
+      "profile_picture": "./image/Avatar/boy_03.jpg",
+      "message": "Let's catch up soon!"
+    },
+    {
+      "name": "Charlie Brown",
+      "gender": "Male",
+      "timestamp": "12:45 PM",
+      "profile_picture": "./image/Avatar/boy_01.jpeg",
+      "message": "Did you check the document?"
+    },
+    {
+      "name": "Diana Prince",
+      "gender": "Female",
+      "timestamp": "11:30 AM",
+      "profile_picture": "./image/Avatar/girl_01.png",
+      "message": "I'll call you later."
+    },
+    {
+      "name": "Ethan Hunt",
+      "gender": "Male",
+      "timestamp": "10:20 AM",
+      "profile_picture": "./image/Avatar/girl_02.jpeg",
+      "message": "Mission accomplished!"
+    },
+    {
+      "name": "Fiona Gallagher",
+      "gender": "Female",
+      "timestamp": "9:50 AM",
+      "profile_picture": "./image/Avatar/girl_03.png",
+      "message": "See you at the meeting."
+    },
+    {
+      "name": "George Martin",
+      "gender": "Male",
+      "timestamp": "9:00 AM",
+      "profile_picture": "./image/Avatar/girl_01.png",
+      "message": "Can you review this?"
+    },
+    {
+      "name": "Hannah Lee",
+      "gender": "Female",
+      "timestamp": "8:45 AM",
+      "profile_picture": "./image/Avatar/girl_03.png",
+      "message": "Good morning!"
+    },
+    {
+      "name": "Ian Wright",
+      "gender": "Male",
+      "timestamp": "8:30 AM",
+      "profile_picture": "./image/Avatar/boy_02.webp",
+      "message": "Got it, thanks!"
+    },
+    {
+      "name": "Jessica Cruz",
+      "gender": "Female",
+      "timestamp": "8:15 AM",
+      "profile_picture": "./image/Avatar/boy_01.jpeg",
+      "message": "Are you free today?"
+    },
+    {
+      "name": "Kevin Durant",
+      "gender": "Male",
+      "timestamp": "8:00 AM",
+      "profile_picture": "./image/Avatar/girl_01.png",
+      "message": "Let's finalize the plan."
+    },
+    {
+      "name": "Laura Palmer",
+      "gender": "Female",
+      "timestamp": "7:45 AM",
+      "profile_picture": "./image/Avatar/boy_01.jpeg",
+      "message": "Call me when you're free."
+    },
+    {
+      "name": "Michael Scott",
+      "gender": "Male",
+      "timestamp": "7:30 AM",
+      "profile_picture": "./image/Avatar/girl_01.png",
+      "message": "That's what she said!"
+    },
+    {
+      "name": "Nancy Wheeler",
+      "gender": "Female",
+      "timestamp": "7:15 AM",
+      "profile_picture": "./image/Avatar/boy_01.jpeg",
+      "message": "See you soon."
+    },
+    {
+      "name": "Oscar Isaac",
+      "gender": "Male",
+      "timestamp": "7:00 AM",
+      "profile_picture": "./image/Avatar/girl_03.png",
+      "message": "Meeting rescheduled to 3 PM."
+    },
+    {
+      "name": "Pam Beesly",
+      "gender": "Female",
+      "timestamp": "6:45 AM",
+      "profile_picture": "./image/Avatar/boy_03.jpg",
+      "message": "Can you send me the file?"
+    },
+    {
+      "name": "Quinn Fabray",
+      "gender": "Female",
+      "timestamp": "6:30 AM",
+      "profile_picture": "./image/Avatar/boy_02.webp",
+      "message": "Good luck today!"
+    },
+    {
+      "name": "Ryan Gosling",
+      "gender": "Male",
+      "timestamp": "6:15 AM",
+      "profile_picture": "./image/Avatar/girl_01.png",
+      "message": "Looking forward to it."
+    },
+    {
+      "name": "Sophia Bush",
+      "gender": "Female",
+      "timestamp": "6:00 AM",
+      "profile_picture": "./image/Avatar/girl_02.jpeg",
+      "message": "Did you get my email?"
+    },
+    {
+      "name": "Tom Hiddleston",
+      "gender": "Male",
+      "timestamp": "5:45 AM",
+      "profile_picture": "./image/Avatar/boy_02.webp",
+      "message": "Great work on the project!"
+    }
+  ]
+  

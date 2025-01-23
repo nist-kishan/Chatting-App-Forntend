@@ -1,0 +1,30 @@
+.chatContainer {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.chatInnerContainer {
+    width: 100vw;
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 27% 73%;
+}
+
+.chatContact {
+    width: 100%;
+    height: 85vh;
+}
+
+::-webkit-scrollbar {
+    width: 8px;
+    background-color: rgb(59, 62, 62);
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #8a8e90;
+    border-radius: 10px;
+}

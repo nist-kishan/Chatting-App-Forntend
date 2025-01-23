@@ -1,0 +1,58 @@
+.contactCardContainer {
+    color: white;
+    display: grid;
+    grid-template-columns: 20% 70% 5% 5%;
+    padding: 1rem 2.5rem 1rem 1rem;
+    cursor: pointer;
+}
+
+.contactCardGradient {
+    border-bottom: 2px solid rgb(238, 238, 230);
+    border-right: 2px solid rgb(238, 238, 230);
+    background: rgb(42, 255, 184);
+    background: -moz-linear-gradient(90deg, rgba(42, 255, 184, 0.7198529069831057) 10%, rgba(0, 0, 0, 0.8991246156665791) 92%);
+    background: -webkit-linear-gradient(90deg, rgba(42, 255, 184, 0.7198529069831057) 10%, rgba(0, 0, 0, 0.8991246156665791) 92%);
+    background: linear-gradient(90deg, rgba(42, 255, 184, 0.7198529069831057) 10%, rgba(0, 0, 0, 0.8991246156665791) 92%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#2affb8", endColorstr="#000000", GradientType=1);
+}
+
+.contactNormal {
+    background: rgb(75, 125, 209);
+    background: -moz-linear-gradient(90deg, rgba(75, 125, 209, 0.6890405820531338) 19%, rgba(96, 162, 185, 1) 72%);
+    background: -webkit-linear-gradient(90deg, rgba(75, 125, 209, 0.6890405820531338) 19%, rgba(96, 162, 185, 1) 72%);
+    background: linear-gradient(90deg, rgba(75, 125, 209, 0.6890405820531338) 19%, rgba(96, 162, 185, 1) 72%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#4b7dd1", endColorstr="#60a2b9", GradientType=1);
+}
+
+.contactCardImage img {
+    border-radius: 50%;
+    height: 4rem;
+    background-size: cover;
+    border: 2px solid white;
+    width: 4rem;
+}
+
+.contactCardInfo {
+    margin-top: 0.01rem;
+    display: flex;
+    flex-direction: column;
+    padding-left: 2rem;
+}
+
+.contactCardName {
+    font-size: larger;
+    font-weight: bold;
+    padding-bottom: 0.7rem;
+}
+
+.contactCardMessage {
+    white-space: nowrap;
+    width: 120px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.contactCardTimestamp {
+    margin-right: 1rem;
+    width: max-content;
+}

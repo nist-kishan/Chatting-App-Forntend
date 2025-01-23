@@ -1,0 +1,75 @@
+body {
+    background: rgb(44, 47, 46);
+    background: -moz-radial-gradient(circle, rgba(44, 47, 46, 1) 26%, rgba(0, 0, 0, 0.8991246156665791) 63%);
+    background: -webkit-radial-gradient(circle, rgba(44, 47, 46, 1) 26%, rgba(0, 0, 0, 0.8991246156665791) 63%);
+    background: radial-gradient(circle, rgba(44, 47, 46, 1) 26%, rgba(0, 0, 0, 0.8991246156665791) 63%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#2c2f2e", endColorstr="#000000", GradientType=1);
+}
+
+.setProfileContainer {
+    padding-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.setProfileHeading {
+    margin-top: 8px;
+    color: rgb(236, 232, 225);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    left: 2;
+}
+
+
+.setProfileProfileImage {
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    margin: 20px;
+    border: 5px solid rgb(212, 228, 229);
+}
+
+.setProfileInnerContainer{
+    display: flex;
+    justify-content: center;
+}
+
+.setProfileSetProfileImage{
+    border-radius: 50%;
+    background-size: cover;
+    height: 150px;
+    width: 150px;
+    margin: 13px;
+    padding: 5px;
+    min-width: 50px;
+    min-height: 50px;
+    transition: transform 0.avatarContainer .3s ease
+}
+
+.setProfileSetProfileImage:hover{
+    transform: scale(1.2);
+    transition: 0.5s ease-in-out;
+}
+
+.setProfileSetProfileImageborder{
+    border: 5px solid rgb(216, 234, 235);
+    transition: 0.5s ease-in-out;
+
+    &:hover {
+        border: 5px solid rgb(216, 234, 235);
+    }
+}
+
+.setProfileButtonContainer {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.setProfileBtnSelect {
+    width: 20rem;
+    margin-top: 1rem;
+}
